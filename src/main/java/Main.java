@@ -1,3 +1,5 @@
+import ru.netology.mvndz.mvndz5.services.RestService;
+
 public class Main {
 
     public static void main(String[] args) {

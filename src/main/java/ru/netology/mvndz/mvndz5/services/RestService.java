@@ -1,3 +1,5 @@
+package ru.netology.mvndz.mvndz5.services;
+
 public class RestService {
 
     public int calculate(int income, int expenses, int threshold) {
